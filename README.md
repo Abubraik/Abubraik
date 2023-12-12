@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer .
+#### I am a .NET Back-End Developer.
 
 Technical Engineer at Gatelock;<br>
 
